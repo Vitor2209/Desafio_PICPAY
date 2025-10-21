@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/img.jpg" alt="PICPAY" width="600"/>
+</p>
+
 💸 Desafio Técnico - Backend PicPay
 
 Este projeto foi desenvolvido como parte de um desafio técnico do PicPay, com o objetivo de demonstrar habilidades em desenvolvimento Backend com Java.
